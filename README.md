@@ -11,7 +11,21 @@ my time table
 
    <!--<caption>Timetable</caption>-->
 
- <tr>
+
+     <tr>
+    <td align="center" height="50">
+       <b>FRIDAY</b>
+    </td>
+
+    <td colspan="3" align="center" height="50">LAB</td>
+
+   <td align="center" height="50">Mat</td>
+   <td align="center" height="50">Che</td>
+   <td align="center" height="50">Eng</td>
+   <td align="center" height="50">Phy</td>
+  </tr>
+     
+     <tr>
     <td align="center" height="50">
       <b>SATURDAY</b>
     </td>
