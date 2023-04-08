@@ -9,8 +9,6 @@ my time table
 
    <table border="5" cellspacing="0" align="center">
 
-   <!--<caption>Timetable</caption>-->
-
   <tr>
      <td align="center" height="50" width="100">
      <br> <b> Day/Period </b> </br>
